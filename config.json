@@ -1,8 +1,8 @@
 {
   "ocrSpaceApiKey" : "", 
-  "spamChannelID" : "", 
-  "logChannelID" : "", 
+  "spamChannelID" : "1132462285521166468", 
+  "logChannelID" : "1132462059032952863", 
   "errorChannelID" : "", 
-  "TOKEN" : ""
+  "TOKEN" : "MTEzMTQxMzgwMzMxODM4MjY4Mw.G0i9b0.m-A3C1PuA2y3zFBqkmT7nm9s1OI8kygCtFX__w"
 }
 
